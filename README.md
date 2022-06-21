@@ -35,7 +35,6 @@ mongoDB,nodejs를 이용해 구성했습니다
  <p align="center">
 <img alt= "icon" wide="80" height="80" src ="imgs/mongodb-256x300.png">
 &nbsp&nbsp
-<img alt= "icon" wide="80" height="80" src ="imgs/img1.daumcdn.png">
 </p>
  <p align="center">
 🚀 서버 구성
@@ -46,8 +45,7 @@ mongoDB,nodejs를 이용해 구성했습니다
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
 <img alt= "icon" wide="65" height="65" src ="imgs/express.png">
 &nbsp&nbsp
-<img alt= "icon" wide="65" height="65" src ="imgs/Swagger-logo.png
-">
+<img alt= "icon" wide="65" height="65" src ="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png">
 
 </p>
 <p align="center">
