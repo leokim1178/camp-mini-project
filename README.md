@@ -26,7 +26,9 @@
 -   local에서 테스트 💡
 
 ```
-git clone https://github.com/leokim1178/mini-project-1
+git clone https://github.com/leokim1178/camp-mini-project
+cd backend
+# .env 추가
 docker 설치
 docker compose build
 docker compose up
