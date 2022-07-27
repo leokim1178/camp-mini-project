@@ -17,6 +17,7 @@
   - [💻 기술 스택](#-기술-스택)
   - [🛠 파이프 라인](#-파이프-라인)
   - [🗂 폴더 구조](#-폴더-구조)
+  - [🔒 ENV](#-env)
 
 ---
 
@@ -72,6 +73,8 @@ docker compose up
  <p align="center">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
+---
+
 ## 🛠 파이프 라인
 
 -   [스타벅스 메뉴조회 API](imgs/스타벅스%20메뉴조회%20API%20PG.png)
@@ -83,6 +86,8 @@ docker compose up
 -   [회원 가입 API](imgs/회원가입%20API%20PG.png)
 
 -   [회원 목록 조회 API](imgs/회원%20목록%20조회%20API%20PG.png)
+
+---
 
 ## 🗂 폴더 구조
 
@@ -118,4 +123,17 @@ mini-project
    ├─ models
    │  └─ starbucks.model.js
    └─ package.json
+```
+
+---
+
+## 🔒 ENV
+
+```
+SMS_APP_KEY=
+SMS_X_SECRET_KEY=
+SMS_SENDER=
+EMAIL_APP_KEY=
+EMAIL_X_SECRET_KEY=
+EMAIL_SENDER=
 ```
